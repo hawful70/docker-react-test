@@ -14,7 +14,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          was by feature
+          change by feature
         </a>
       </header>
     </div>
